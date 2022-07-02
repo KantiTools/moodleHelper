@@ -1,9 +1,9 @@
 ## KaschusoHelper
 
-KaschusoHelper ist eine Firefox-Erweiterung, welche dem Kaschuso der Kantonsschule Solothurn einige nützliche Funktionen hinzufügt.
+MoodleHelper ist eine Firefox-Erweiterung, welche dem Moodle der Kantonsschule Solothurn einige nützliche Funktionen hinzufügt.
 
 ### Funktionen:
-- Mit KaschusoHelper wird in der Notenübersicht der Notendurchschnitt und die Summe der fünf tiefsten Noten angezeigt
+- Sie erhalten Moodle im Darkmode.
 - Weitere Funktionen sind geplant.
 
 ### Datenschutz
@@ -20,4 +20,4 @@ Um jene Freiheiten zu ermöglichen, ist der Quellcode unserer Erweiterung unter 
 
 Bei Fragen und Anregungen kann man sich gerne an lorhof1@gmail.com wenden.
 
-KaschusoHelper ist nicht mit Mozilla, Centerboard oder der Kantonsschule Solothurn assoziiert.
+MoodleHelper ist nicht mit Mozilla, Centerboard oder der Kantonsschule Solothurn assoziiert.
