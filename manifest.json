@@ -1,15 +1,16 @@
 {
 	"manifest_version": 2,
-	"name": "KaschusoHelper",
-	"version": "1.3",
+	"name": "MoodleHelper",
+	"version": "1.0",
 
-	"description": "Adds some tweaks to the KSSO's Kaschuso",
+	"description": "Adds some tweaks to the KSSO's Moodle",
 
 	"content_scripts":[
 		{
 			"matches": ["*://moodle.ksso.ch/*", "*://kaschuso.so.ch/*"],
-			"js": ["kaschusoHelper.js"],
-			"css": ["darkMode.css"]
+			"css": ["darkMode.css"],
+			"all_frames": true
 		}
+
 	]
 }
