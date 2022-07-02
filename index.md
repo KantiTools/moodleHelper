@@ -1,4 +1,4 @@
-## KaschusoHelper
+## MoodleHelper
 
 MoodleHelper ist eine Firefox-Erweiterung, welche dem Moodle der Kantonsschule Solothurn einige nützliche Funktionen hinzufügt.
 
