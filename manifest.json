@@ -7,7 +7,7 @@
 
 	"content_scripts":[
 		{
-			"matches": ["*://moodle.ksso.ch/*", "*://kaschuso.so.ch/*"],
+			"matches": ["*://moodle.ksso.ch/*"],
 			"css": ["darkMode.css"],
 			"all_frames": true
 		}
