@@ -114,3 +114,57 @@ a.bg-gray:hover, a.bg-gray:focus, button.bg-gray:hover, button.bg-gray:focus {
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
   color: rgba(255, 20, 20, 0.9);
 }
+
+h1, .h1 {
+  font-size: 2.34375rem;
+  color: white;
+}
+
+h2, .h2 {
+  font-size: 1.875rem;
+  color: white;
+  background-color: black; 
+}
+
+h3, .h3 {
+  font-size: 1.64062rem;
+  color: white;
+}
+
+.path-mod-assign .submissionsummarytable .c0, .path-mod-assign .mod-assign-history-panel .c0 {
+  width: 150px;
+  color: white;
+}
+
+.path-mod-assign div.fileuploadsubmissiontime {
+  float: right;
+  color: wheat;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: wheat;
+}
+
+.generaltable th, .generaltable td {
+  padding: .75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  color: white;
+}
+
+.pb-3, .py-3 {
+  padding-bottom: 1rem !important;
+  color: wheat;
+}
+
+.table-bordered thead th, .table-bordered thead td {
+  border-bottom-width: 2px;
+  color: white;
+}
+
+.table-bordered th, .table-bordered td {
+  border: 1px solid #dee2e6;
+  color: white;
+}
