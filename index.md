@@ -1,3 +1,4 @@
+## Moodle hat ihr UI geändert, was dazu führt, dass dieses Addon nur eingeschränkt funktioniert
 ## MoodleHelper
 
 MoodleHelper ist eine Firefox-Erweiterung, welche dem Moodle der Kantonsschule Solothurn einige nützliche Funktionen hinzufügt.
